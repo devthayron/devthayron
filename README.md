@@ -1,11 +1,12 @@
 <h1 align="center">Olá, eu sou o Thayron 👋</h1>
-<h3 align="center">Desenvolvedor Backend Python</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Python+%2B+FastAPI+%2B+Django;Vis%C3%A3o+Computacional+com+OpenCV;Machine+Learning+%26+LLMs;Transformando+aprendizados+em+projetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Python;FastAPI+%2B+SQLAlchemy;Vis%C3%A3o+Computacional+com+OpenCV;Transformando+conhecimento+em+c%C3%B3digo" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://github.com/devthayron">
-    <img src="https://komarev.com/ghpvc/?username=devthayron&label=Visualizações%20do%20perfil&color=2E9EF7&style=flat" alt="visitor badge"/>
+    <img src="https://komarev.com/ghpvc/?username=devthayron&label=Visualizações%20do%20perfil&color=2E9EF7&style=flat" alt="Visualizações do perfil"/>
   </a>
 </p>
 
@@ -14,10 +15,9 @@
 ### 🧑‍💻 Sobre mim
 
 - Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio
-- Desenvolvedor **Backend Python**, trabalhando com **Django** e **FastAPI**
-- Também trabalho com **SQLAlchemy**, **Alembic** e modelagem de banco de dados
+- Desenvolvo **APIs REST com FastAPI**, integrando serviços externos como OpenAI e Evolution API
+- Uso **SQLAlchemy** e **Alembic** para modelagem e persistência de dados relacionais
 - Construo projetos práticos de **Visão Computacional** com OpenCV e MediaPipe
-- Evoluindo em **Machine Learning** e explorando **LLMs**
 
 ---
 
@@ -25,48 +25,40 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
+### 📚 Atualmente estudando
+
+- 🧠 **Machine Learning**
+- 🤖 **LLMs** e aplicações com Inteligência Artificial
+
+---
 ### 📌 Projeto em destaque
 
-#### Parking Vision
-PoC desenvolvido em Python para identificar quais vagas estão livres ou ocupadas em um estacionamento.
+#### WhatsApp AI Agent
+Agente de IA integrado ao WhatsApp via Evolution API, com identificação de usuários, memória de conversas e respostas contextualizadas usando OpenAI.
 
-Durante o processamento, cada frame passa por etapas de processamento de imagens com OpenCV, e cada vaga é analisada individualmente e classificada visualmente:
+Arquitetura em camadas (app/services/database), testes automatizados com Pytest, logging estruturado.
 
-- 🟩 Verde — vaga livre
-- 🟥 Vermelho — vaga ocupada
+**Stack:** Python · FastAPI · SQLAlchemy · OpenAI API
 
-O sistema também exibe a quantidade de vagas disponíveis.
-
-**Stack:** Python · OpenCV · NumPy
-
-🔗 [Ver repositório](https://github.com/devthayron/parking-vision)
+🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent)
 
 ---
 ### 🎓 Certificados & Cursos
 
-**IA & Automação**
-- [Agentes de IA com Python: OpenAI, Hugging Face e LangChain](https://portal.hashtagtreinamentos.com/certificate/verify/agenthay178574850601394ca15ca)
-- [Trilha: APIs de IA](https://portal.hashtagtreinamentos.com/certificate/verify/trilthay1782401553472af7ce958)
-- [APIs de Inteligência Artificial](https://portal.hashtagtreinamentos.com/certificate/verify/apisthay1782388566204775d3069)
-  
-**Python & Programação**
-- [Python Impressionador](https://portal.hashtagtreinamentos.com/certificate/verify/pyththay1780659101146a9fc074f)
-- [Algoritmos e Lógica de Programação](https://portal.hashtagtreinamentos.com/certificate/verify/algothay17806594255131f1275e8)
-- [Desenvolvimento Web com Python e Django](https://ude.my/UC-e52f5c29-19e3-428c-ba71-a276bd456185)
+* **IA:** [Agentes de IA com Python](https://portal.hashtagtreinamentos.com/certificate/verify/agenthay178574850601394ca15ca) · [APIs de IA](https://portal.hashtagtreinamentos.com/certificate/verify/apisthay1782388566204775d3069)
+* **Python:** [Python Impressionador](https://portal.hashtagtreinamentos.com/certificate/verify/pyththay1780659101146a9fc074f) · [Algoritmos e Lógica](https://portal.hashtagtreinamentos.com/certificate/verify/algothay17806594255131f1275e8) · [Desenvolvimento Web com Python e Django](https://ude.my/UC-e52f5c29-19e3-428c-ba71-a276bd456185)
+* **Ferramentas:** [Git e GitHub](https://portal.hashtagtreinamentos.com/certificate/verify/git-thay17806594116764883e177)
 
-**Ferramentas**
-- [Git e GitHub](https://portal.hashtagtreinamentos.com/certificate/verify/git-thay17806594116764883e177)
-- [Figma - Aplicações Práticas](https://portal.hashtagtreinamentos.com/certificate/verify/figmthay1780659399348fe75fb10)
 ---
 
 ### 📫 Como me encontrar
