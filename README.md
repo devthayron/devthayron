@@ -42,13 +42,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e 
 
 #### WhatsApp AI Agent
 
-Agente de IA integrado ao WhatsApp via Evolution API, desenvolvido com **FastAPI**, **SQLAlchemy** e **OpenAI API**.
+Agente de IA integrado ao WhatsApp que **mantém o contexto das conversas**, identificando o usuário e recuperando seu histórico para dar continuidade às interações.
 
-O projeto implementa identificação de usuários, memória de conversas e respostas contextualizadas, utilizando uma arquitetura organizada em camadas.
+Possui persistência das conversas, controle de mensagens duplicadas e testes automatizados.
 
-Também conta com **testes automatizados com Pytest** e **logging estruturado**.
-
-**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · OpenAI API · Evolution API
+**Stack:** Python · FastAPI · SQLAlchemy · SQLite · OpenAI API · Evolution API
 
 🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent)
 
