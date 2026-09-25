@@ -48,7 +48,8 @@ Possui persistência das conversas, controle de mensagens duplicadas e testes au
 
 **Stack:** Python · FastAPI · SQLAlchemy · SQLite · OpenAI API · Evolution API
 
-🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent)
+🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent) · 🎥 [Tour pelo projeto](https://gitdiagram.com/devthayron/whatsapp-ai-agent/video)
+
 
 ---
 
