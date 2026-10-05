@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Thayron 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Python;FastAPI+%2B+SQLAlchemy;Automa%C3%A7%C3%A3o+%2B+Integra%C3%A7%C3%B5es;Vis%C3%A3o+Computacional+com+OpenCV;IA+aplicada+a+problemas+reais" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+Python;FastAPI+%2B+SQLAlchemy;Automa%C3%A7%C3%A3o+%2B+Integra%C3%A7%C3%B5es;IA+aplicada+a+problemas+reais" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,21 +25,30 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias
+
+**Backend**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+**Dados & IA**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Projeto em destaque
+### ⭐ Projeto em destaque
 
 #### WhatsApp AI Agent
 
@@ -51,6 +60,13 @@ Possui persistência das conversas, controle de mensagens duplicadas e testes au
 
 🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent) · 🎥 [Tour pelo projeto](https://gitdiagram.com/devthayron/whatsapp-ai-agent/video)
 
+---
+
+### 📊 Linguagens mais utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayron&layout=compact&langs_count=4&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
@@ -82,4 +98,4 @@ Possui persistência das conversas, controle de mensagens duplicadas e testes au
 
 ---
 
-<p align="center"><i>"Aprendo estudando, mas consolido construindo." 🍃</i></p>
+<p align="center"><i>"Aprendo estudando, mas consolido construindo."</i></p>
