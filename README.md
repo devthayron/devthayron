@@ -16,11 +16,12 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e atuo como desenvolvedor **Backend com Python**.
 
-* Desenvolvo **APIs REST com FastAPI**, integrando serviços e aplicações externas
+* Construção de **APIs REST com FastAPI**, integrando serviços e aplicações externas
 * Trabalho com **SQLAlchemy, Alembic e PostgreSQL** para modelagem e persistência de dados
-* Desenvolvo automações e sistemas para resolver **problemas reais de negócio**
-* Construo projetos de **Visão Computacional** com OpenCV e MediaPipe
-* Exploro aplicações de **Inteligência Artificial**, incluindo LLMs e Machine Learning
+* Automação de processos e sistemas voltados à resolução de **problemas reais de negócio**
+* Análise de dados e criação de **dashboards com Power BI e Excel**
+* Projetos de **Visão Computacional** com OpenCV e MediaPipe
+* Exploração de aplicações de **Inteligência Artificial**, incluindo LLMs e Machine Learning
 
 ---
 
