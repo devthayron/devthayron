@@ -17,8 +17,8 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e atuo como desenvolvedor **Backend com Python**.
 
 * Construção de **APIs REST com FastAPI**, integrando serviços e aplicações externas
-* Trabalho com **SQLAlchemy, Alembic e PostgreSQL** para modelagem e persistência de dados
-* Automação de processos e sistemas voltados à resolução de **problemas reais de negócio**
+* Uso de SQLAlchemy, Alembic e PostgreSQL para persistência e gerenciamento de dados
+* Automação de processos e sistemas para otimização de tarefas e resolução de problemas de negócio
 * Análise e tratamento de dados com **Pandas**, além da criação de **dashboards com Power BI**
 * Projetos de **Visão Computacional** com OpenCV e MediaPipe
 * Desenvolvimento de aplicações de **Inteligência Artificial**, com foco em LLMs e Machine Learning
@@ -68,8 +68,8 @@ Possui persistência das conversas, controle de mensagens duplicadas e testes au
 
 ### 📊 Linguagens mais utilizadas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayron&layout=compact&langs_count=4&theme=transparent&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devthayron&layout=compact&langs_count=4&theme=transparent&hide_border=true&hide_title=true" />
 </p>
 
 ---
