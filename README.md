@@ -19,9 +19,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e 
 * Construção de **APIs REST com FastAPI**, integrando serviços e aplicações externas
 * Trabalho com **SQLAlchemy, Alembic e PostgreSQL** para modelagem e persistência de dados
 * Automação de processos e sistemas voltados à resolução de **problemas reais de negócio**
-* Análise de dados e criação de **dashboards com Power BI e Excel**
+* Análise e tratamento de dados com **Pandas**, além da criação de **dashboards com Power BI**
 * Projetos de **Visão Computacional** com OpenCV e MediaPipe
-* Exploração de aplicações de **Inteligência Artificial**, incluindo LLMs e Machine Learning
+* Desenvolvimento de aplicações de **Inteligência Artificial**, com foco em LLMs e Machine Learning
 
 ---
 
@@ -37,13 +37,17 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**Dados & IA**
+**Dados, IA & Ferramentas**
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
