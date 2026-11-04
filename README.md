@@ -56,11 +56,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio e 
 
 #### WhatsApp AI Agent
 
-Agente de IA integrado ao WhatsApp que **mantém o contexto das conversas**, identificando o usuário e recuperando seu histórico para dar continuidade às interações.
+Agente integrado à API oficial da Meta que identifica usuários, recupera o histórico das conversas e gera respostas
+contextualizadas com modelos da OpenAI
 
-Possui persistência das conversas, controle de mensagens duplicadas e testes automatizados.
-
-**Stack:** Python · FastAPI · SQLAlchemy · SQLite · OpenAI API · Evolution API
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · OpenAI API · WhatsApp Cloud API
 
 🔗 [Ver repositório](https://github.com/devthayron/whatsapp-ai-agent) · 🎥 [Tour pelo projeto](https://gitdiagram.com/devthayron/whatsapp-ai-agent/video)
 
